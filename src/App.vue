@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://recursosweb.prisaradio.com/fotos/original/010002380198.png">
     <router-view></router-view>
   </div>
 </template>
@@ -8,7 +8,7 @@
 <script>
 export default {
   name: 'app',
-};
+}
 </script>
 
 <style>
