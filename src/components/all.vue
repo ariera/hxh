@@ -31,6 +31,7 @@ li {
 
 a {
   color: #42b983;
+  font-size: 13px;
 }
 .bold {
   font-weight: bold;
