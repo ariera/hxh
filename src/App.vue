@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img src="https://recursosweb.prisaradio.com/fotos/original/010002380198.png">
     <router-view></router-view>
   </div>
 </template>

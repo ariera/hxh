@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <img src="https://recursosweb.prisaradio.com/fotos/original/010002380198.png">
     <ul>
       <li v-for="item of list" :class="{ 'bold': (isToday(item.date))}">
         <a :href="item.url">{{ item.name }}</a>
